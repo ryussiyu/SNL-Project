@@ -55,6 +55,10 @@ nav a.active::after {
   left: 0;
 }
 
+nav a:hover {
+  color: #D47058;
+}
+
 /* Hero Section */
 .hero {
   background: url('../image/homebanner.png') center/cover no-repeat;
